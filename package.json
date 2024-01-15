@@ -1,0 +1,28 @@
+{
+	"name": "tech-441-sample-api",
+	"version": "1.0.0",
+	"description": "",
+	"main": "./src/functions/*/*.js",
+	"scripts": {
+		"start": "func start",
+		"test": "exit 0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/UJ-TECH-441/tech-441-sample-api.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/UJ-TECH-441/tech-441-sample-api/issues"
+	},
+	"homepage": "https://github.com/UJ-TECH-441/tech-441-sample-api#readme",
+	"dependencies": {
+		"@azure/functions": "^4.0.0-alpha.1"
+	},
+	"devDependencies": {
+		"@faker-js/faker": "^8.2.0",
+		"azure-functions-core-tools": "^4.x",
+		"lodash": "^4.17.21"
+	}
+}
