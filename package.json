@@ -1,5 +1,5 @@
 {
-	"name": "tech-441-sample-api",
+	"name": "students-api",
 	"version": "1.0.0",
 	"description": "",
 	"main": "./src/functions/*/*.js",
@@ -9,14 +9,14 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/UJ-TECH-441/tech-441-sample-api.git"
+		"url": "git+https://github.com/tsnjcg/students-api.git"
 	},
 	"author": "",
 	"license": "ISC",
 	"bugs": {
-		"url": "https://github.com/UJ-TECH-441/tech-441-sample-api/issues"
+		"url": "https://github.com/tsnjcg/students-api/issues"
 	},
-	"homepage": "https://github.com/UJ-TECH-441/tech-441-sample-api#readme",
+	"homepage": "https://github.com/tsnjcg/students-api#readme",
 	"dependencies": {
 		"@azure/functions": "^4.0.0-alpha.1"
 	},
